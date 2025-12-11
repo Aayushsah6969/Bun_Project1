@@ -2,6 +2,14 @@
 
 A modern, full-stack CRUD application built with Bun runtime and PostgreSQL database. Features a beautiful gradient UI, complete message management, and real-time database time display.
 
+## 📸 Screenshots
+
+### Message CRUD Interface
+![CRUD Interface](img/crud.png)
+
+### Database Time Display
+![Time Display](img/time.png)
+
 ## ✨ Features
 
 - **Full CRUD Operations**: Create, Read, Update, and Delete messages
